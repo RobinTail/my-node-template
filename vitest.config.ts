@@ -5,7 +5,8 @@ export default defineConfig({
     testTimeout: 10000,
     reporters: "basic",
     coverage: {
-      provider: "istanbul",
+      enabled: true,
+      provider: "v8",
       reporter: ["json-summary", "text", "html", "lcov"],
       include: ["src/**"],
     },
