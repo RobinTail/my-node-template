@@ -37,8 +37,8 @@
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "^0.14.1",
-    "@tsconfig/node18": "^18.2.2",
-    "@types/node": "^20.10.4",
+    "@tsconfig/node18": "^18.2.4",
+    "@types/node": "^22.9.0",
     "@typescript-eslint/eslint-plugin": "^7.0.2",
     "@typescript-eslint/parser": "^7.0.2",
     "@vitest/coverage-istanbul": "^1.0.4",
